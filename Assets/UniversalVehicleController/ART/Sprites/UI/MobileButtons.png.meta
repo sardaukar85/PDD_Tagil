@@ -167,11 +167,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -210,6 +211,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
   cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
@@ -222,6 +224,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -234,6 +237,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -246,6 +250,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -258,6 +263,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -526,21 +532,20 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      MobileButtons_2: -6951320790804333139
-      MobileButtons_9: -5572654317543660199
       MobileButtons_0: -5464365917462056879
       MobileButtons_1: -3381401953904709177
-      MobileButtons_8: 8095650872407736430
+      MobileButtons_10: -2100703400798943322
+      MobileButtons_11: -515352896061876744
+      MobileButtons_2: -6951320790804333139
       MobileButtons_3: 8837979574661733928
+      MobileButtons_4: 7821100471139208086
       MobileButtons_5: 7675454154497871457
       MobileButtons_6: 1393434213778780969
-      MobileButtons_11: -515352896061876744
-      MobileButtons_4: 7821100471139208086
-      MobileButtons_10: -2100703400798943322
       MobileButtons_7: -1469461795980290830
-  spritePackingTag: 
+      MobileButtons_8: 8095650872407736430
+      MobileButtons_9: -5572654317543660199
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
