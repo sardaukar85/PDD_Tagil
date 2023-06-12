@@ -4247,6 +4247,206 @@ MonoBehaviour:
     isRoadShape: 0
     controlType: 0
     vertexColor: {r: 0, g: 0, b: 0, a: 0}
+  - roadTypeName: Russian two line
+    id: 1686561777.652488
+    timestamp: 1686561777.652488
+    roadWidth: 10.234177
+    faceDistance: 2
+    angleTreshold: 45
+    uvTiling: 1
+    uv4Type: 0
+    type: 1
+    detailDistance: 50
+    planarUVs: 0
+    outerIndent: 0.5
+    roadShapeDataActive: 0
+    roadShapeData:
+      nodes: []
+      hardEdge: 
+      priorityNodeIndexLeft: 0
+      priorityNodeIndexRight: 0
+      nodesV3: []
+      lanes: []
+      leftLanes: 0
+      rightLanes: 0
+      symmetrical: 0
+      leftSidewalkOffset: 0
+      rightSidewalkOffset: 0
+      outerLaneMarkingLeftIndex: 0
+      includeOuterlaneLeftInShape: 0
+      includeOuterlaneRightInShape: 0
+      outerLaneMarkingRightIndex: 0
+      outerOuterLaneMarkingLeftIndex: 0
+      outerOuterLaneMarkingRightIndex: 0
+      selectedNode: 0
+      selectedLaneNode: 0
+      isSymmetrical: 0
+      isset: 0
+    minSpeed: 45
+    maxSpeed: 55
+    speedLimit: 50
+    roadShape:
+    - {x: -5.1170883, y: -0.00075604}
+    - {x: -5.1170874, y: 0.30900046}
+    - {x: -5.1170864, y: 0.45621756}
+    - {x: -5.016039, y: 0.45621753}
+    - {x: -3.4206476, y: 0.45621774}
+    - {x: -3.30694, y: 0.45621762}
+    - {x: -3.2778263, y: 0.33707523}
+    - {x: -3.3127937, y: 0.33757442}
+    - {x: 0.0013008118, y: 0.33757645}
+    - {x: 3.3150024, y: 0.33756638}
+    - {x: 3.277832, y: 0.3370739}
+    - {x: 3.3069458, y: 0.45621625}
+    - {x: 3.4206543, y: 0.45621637}
+    - {x: 5.0160446, y: 0.45621595}
+    - {x: 5.1170883, y: 0.4562159}
+    - {x: 5.1170883, y: 0.30899984}
+    - {x: 5.1170883, y: -0.0007566364}
+    roadShapeExt: []
+    roadShapeExt2: []
+    doConnectionTri: 0101010101010001010001010101010101
+    doConnectionTriExt: 
+    roadShapeUVs:
+    - 0
+    - 0.12961781
+    - 0.19122091
+    - 0.2335043
+    - 0.9010969
+    - 0.94867784
+    - 1
+    - 0
+    - 0.5000296
+    - 1
+    - 0
+    - 0.05132235
+    - 0.09890384
+    - 0.76649743
+    - 0.8087793
+    - 0.870382
+    - 1
+    roadShapeExtUVs: []
+    roadShapeExtUVs2: []
+    roadShapeUVs2:
+    - 0
+    - 0.12961781
+    - 0.19122091
+    - 0.2335043
+    - 0.9010969
+    - 0.94867784
+    - 1
+    - 0
+    - 0.5000296
+    - 1
+    - 0
+    - 0.05132235
+    - 0.09890384
+    - 0.76649743
+    - 0.8087793
+    - 0.870382
+    - 1
+    preserveUVs: 0
+    hardEdge: 0001010101010000000000010101010100
+    roadShapeVecsString: -5,1, 0;-5,1, 0,3;-5,1, 0,5;-5, 0,5;-3,4, 0,5;-3,3, 0,5;-3,3,
+      0,3;-3,3, 0,3;0, 0,3;3,3, 0,3;3,3, 0,3;3,3, 0,5;3,4, 0,5;5, 0,5;5,1, 0,5;5,1,
+      0,3;5,1, 0;
+    defaultSidewalk: 0
+    sidewalks: 0
+    sidewalkHeight: 0.2
+    sidewalkWidth: 2
+    crosswalks: 0
+    crosswalkIntervals: 100
+    crosswalksIntersections: 0
+    crosswalkPrefab: {fileID: 0}
+    crosswalkHeightOffset: 0.01
+    crosswalkType: 1
+    roadMaterial: {fileID: 0}
+    roadMaterials: []
+    roadPhysicsMaterial: {fileID: 0}
+    roadPhysicsMaterials: []
+    connectionMaterial: {fileID: 0}
+    isSideObject: 0
+    isCustomRoad: 0
+    subSegments: 1
+    soData: []
+    soDataExt: []
+    soDataLog:
+    - id: 1686307517.973775
+      active: 0
+    - id: 1686307748.6260912
+      active: 0
+    - id: 1686307572.054594
+      active: 0
+    - id: 1686245148.210414
+      active: 0
+    - id: 1686307701.1834993
+      active: 0
+    - id: 1686245255.3504167
+      active: 0
+    - id: 1686271556.5676112
+      active: 0
+    - id: 1686307684.1414936
+      active: 0
+    - id: 1686271571.8325734
+      active: 0
+    - id: 1686311021.7306743
+      active: 0
+    - id: 1686245154.8319762
+      active: 0
+    - id: 1686245263.7859058
+      active: 0
+    layer: 0
+    isStatic: 1
+    tag: Untagged
+    splatMapActive: 0
+    splatIndex: 0
+    expandLevel: 0
+    smoothLevel: 1
+    splatOpacity: 1
+    followTerrainContours: 0
+    terrainContoursOffset: 5
+    terrainDeformation: 1
+    defaultIndent: 2
+    defaultSurrounding: 2
+    castShadow: 0
+    randomnessFlag: 0
+    randomYPosition: 0
+    randomMinYPosition: -0.02
+    randomMaxYPosition: 0.02
+    minRandomYPositionDistance: 15
+    maxRandomYPositionDistance: 35
+    randomMinRotation: -1
+    randomMaxRotation: 1
+    minRandomRotationDistance: 15
+    maxRandomRotationDistance: 30
+    vegetationStudioMaskLineActive: 1
+    vegetationStudioGrassPerimeter: 2
+    vegetationStudioPlantPerimeter: 3
+    vegetationStudioTreePerimeter: 4
+    vegetationStudioObjectPerimeter: 3
+    vegetationStudioLargeObjectPerimeter: 4
+    vegetationStudioBiomeMaskActive: 0
+    vegetationStudioBiomeMaskDistance: 0
+    vegetationStudioBiomeMaskBlendDistance: 0
+    vegetationStudioBiomeMaskNoiseScale: 0
+    decalPresets: []
+    decalClassPresets: []
+    defaultRamp: 0
+    extrusionType: 0
+    extrusionDistance: 10
+    fixedDistance: 5
+    connectionAngle: 25
+    connectionRadius: 10
+    oneWay: 0
+    cornerRadiusMainRoad: 3
+    cornerSementsMainRoad: 6
+    cornerRadiusSecondaryRoad: 3
+    cornerRadiusSecondaryCurvature: 0.5
+    cornerSementsSecondaryRoad: 6
+    mainRoadsOnly: 0
+    isRoadShape: 1
+    controlType: 0
+    vertexColor: {r: 1, g: 1, b: 1, a: 1}
   crossingCornerPresets: []
   sidewalkPresets: []
   textureData: []
