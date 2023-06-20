@@ -2470,7 +2470,7 @@ MonoBehaviour:
   - version: 2.0.0
     name: Rus Fanary
     id: 1686307572.054594
-    timestamp: 1686307717.480742
+    timestamp: 1687237625.7305157
     objectType: 0
     gameobjectGUID: 
     textureGUID: 
@@ -2522,7 +2522,7 @@ MonoBehaviour:
     xPosition2: 0
     relativeTo: 0
     yPosition: 0
-    yRotation: 0
+    yRotation: 90
     oldSidwaysDistance: 0
     sidewaysDistanceUpdate: 0
     uvYRound: 0
@@ -2955,7 +2955,7 @@ MonoBehaviour:
   - version: 2.0.0
     name: Rus Fanari 2
     id: 1686307748.6260912
-    timestamp: 1686805986.7440774
+    timestamp: 1687237567.193639
     objectType: 0
     gameobjectGUID: 
     textureGUID: 
@@ -3007,7 +3007,7 @@ MonoBehaviour:
     xPosition2: 0
     relativeTo: 2
     yPosition: 0
-    yRotation: 90
+    yRotation: 0
     oldSidwaysDistance: 0
     sidewaysDistanceUpdate: 0
     uvYRound: 0
