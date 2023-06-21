@@ -138,7 +138,7 @@ Material:
     - _AORemapMin: 0
     - _ATDistance: 1
     - _AlbedoAffectEmissive: 0
-    - _AlphaCutoff: 0.204
+    - _AlphaCutoff: 0.653
     - _AlphaCutoffEnable: 1
     - _AlphaCutoffPostpass: 0.5
     - _AlphaCutoffPrepass: 0.5
@@ -154,7 +154,7 @@ Material:
     - _CullFarStart: 60
     - _CullMode: 0
     - _CullModeForward: 0
-    - _Cutoff: 0.204
+    - _Cutoff: 0.653
     - _DISTANCEBLEND: 0
     - _DepthOffsetEnable: 0
     - _DetailAlbedoScale: 1
@@ -182,7 +182,7 @@ Material:
     - _DistortionVectorScale: 2
     - _DoubleSidedEnable: 1
     - _DoubleSidedNormalMode: 1
-    - _Drag: 0.0001
+    - _Drag: 0.1
     - _DstBlend: 0
     - _EmissiveColorMode: 1
     - _EmissiveExposureWeight: 1
@@ -193,7 +193,7 @@ Material:
     - _EnableGeometricSpecularAA: 0
     - _EnableMotionVectorForVertexAnimation: 0
     - _EnableSpecularOcclusion: 0
-    - _EnableWind: 0
+    - _EnableWind: 1
     - _EnergyConservingSpecularColor: 1
     - _HdrpVersion: 1
     - _HeightAmplitude: 0.02
@@ -206,7 +206,7 @@ Material:
     - _HeightPoMAmplitude: 2
     - _HeightTessAmplitude: 2
     - _HeightTessCenter: 0.5
-    - _InitialBend: 0
+    - _InitialBend: 1
     - _InvTilingScale: 1
     - _InvertBackfaceNormal: 0
     - _Ior: 1
@@ -231,8 +231,8 @@ Material:
     - _RenderQueueType: 1
     - _RequireSplitLighting: 0
     - _SSRefractionProjectionModel: 0
-    - _ShiverDirectionality: 0
-    - _ShiverDrag: 0
+    - _ShiverDirectionality: 0.405
+    - _ShiverDrag: 0.1
     - _Smoothness: 1
     - _SmoothnessRemapMax: 1
     - _SmoothnessRemapMin: 0
@@ -255,13 +255,6 @@ Material:
     - _SupportDBuffer: 0
     - _SupportDecals: 0
     - _SurfaceType: 0
-    - _TessellationBackFaceCullEpsilon: -0.25
-    - _TessellationFactor: 4
-    - _TessellationFactorMaxDistance: 50
-    - _TessellationFactorMinDistance: 20
-    - _TessellationFactorTriangleSize: 100
-    - _TessellationMode: 0
-    - _TessellationShapeFactor: 0.75
     - _TexWorldScale: 1
     - _TexWorldScaleEmissive: 1
     - _Thickness: 0
@@ -289,17 +282,17 @@ Material:
     - _ZTestTransparent: 4
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _BaseColor: {r: 0.8490566, g: 0.8490566, b: 0.8490566, a: 1}
     - _BaseColorMap_MipInfo: {r: 0, g: 0, b: 0, a: 0}
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0.8490566, g: 0.8490566, b: 0.8490566, a: 1}
     - _DiffusionProfileAsset: {r: -1.8019567e-30, g: 2.8583547e+22, b: 2.0825967e+12,
         a: 8.838735e-11}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
-    - _DryColor: {r: 0.6981132, g: 0.6981132, b: 0.6981132, a: 1}
+    - _DryColor: {r: 0.8018868, g: 0.7371864, b: 0.7073247, a: 1}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _EmissiveColor: {r: 0, g: 0, b: 0, a: 1}
     - _EmissiveColorLDR: {r: 0, g: 0, b: 0, a: 1}
-    - _HealthyColor: {r: 0.8301887, g: 0.8301887, b: 0.8301887, a: 1}
+    - _HealthyColor: {r: 0.8490566, g: 0.8265068, b: 0.7008722, a: 1}
     - _InvPrimScale: {r: 1, g: 1, b: 0, a: 0}
     - _IridescenceThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
     - _NewNormal: {r: 0, g: 0, b: 0, a: 0}
