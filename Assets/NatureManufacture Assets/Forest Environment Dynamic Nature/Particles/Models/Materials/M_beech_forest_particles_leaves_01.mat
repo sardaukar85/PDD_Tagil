@@ -320,8 +320,7 @@ Material:
     - _BaseColorMap_MipInfo: {r: 0, g: 0, b: 0, a: 0}
     - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
     - _Color: {r: 0.8, g: 0.8, b: 0.8, a: 1}
-    - _DiffusionProfileAsset: {r: -7.1912784e+34, g: 1.5250164e+22, b: 0.000001157826,
-        a: 6.643526e-13}
+    - _DiffusionProfileAsset: {r: -7.1912784e+34, g: 1.5250164e+22, b: 0.000001157826, a: 6.643526e-13}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _DryColor: {r: 0.8676471, g: 0.818369, b: 0.6124567, a: 1}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}

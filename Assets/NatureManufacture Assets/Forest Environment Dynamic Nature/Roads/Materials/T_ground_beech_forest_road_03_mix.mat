@@ -9,8 +9,6 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: T_ground_beech_forest_road_03_mix
   m_Shader: {fileID: 4800000, guid: 7a80715936a39234886da853e2fd9e3b, type: 3}
-  m_Parent: {fileID: 0}
-  m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _ALPHATEST_ON
   - _SURFACE_TYPE_TRANSPARENT
@@ -53,7 +51,6 @@ Material:
   - TransparentBackface
   - MOTIONVECTORS
   - DepthOnly
-  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:

@@ -378,8 +378,7 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 0.3019608}
     - _Color0: {r: 0.5735295, g: 0.5735295, b: 0.5735295, a: 0}
     - _ColorPower: {r: 25, g: 25, b: 25, a: 0}
-    - _DiffusionProfileAsset: {r: 5.4629544e+10, g: 1.0282388e+32, b: -5.388665e+13,
-        a: 1.6297446e+27}
+    - _DiffusionProfileAsset: {r: 5.4629544e+10, g: 1.0282388e+32, b: -5.388665e+13, a: 1.6297446e+27}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmisColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 0}
     - _EmissionColor: {r: 4194305.5, g: 4194305.5, b: 4194305.5, a: 1}
