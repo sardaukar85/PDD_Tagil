@@ -9,6 +9,8 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: R.A.M 2019 Trial Lake
   m_Shader: {fileID: 4800000, guid: afbb1d8a9ff99304691b993b80fbc309, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _SPECULAR_SETUP
   - _SURFACE_TYPE_TRANSPARENT
@@ -22,6 +24,7 @@ Material:
   stringTagMap:
     RenderType: Transparent
   disabledShaderPasses: []
+  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -292,7 +295,7 @@ Material:
     - _FoamWavePower: 3.44
     - _FoamWavePowerr: 2
     - _Foamfalloff: -4
-    - _GlobalTiling: 1
+    - _GlobalTiling: 100
     - _GlossyReflections: 1
     - _Keyword1: 1
     - _Keyword2: 1
